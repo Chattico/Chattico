@@ -5,6 +5,6 @@ Official Chattico Organisation.
 - Our Bot-API: *Soon*
 
  # Developers
- [tayron1](https://github.com/tayron1)
- [tunikakeks](https://github.com/tunikakeks)
- [LPTP1Dev](https://github.com/LPTP1Dev)
+ - [tayron1](https://github.com/tayron1)
+ - [tunikakeks](https://github.com/tunikakeks)
+ - [LPTP1Dev](https://github.com/LPTP1Dev)
