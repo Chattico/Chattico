@@ -1,9 +1,8 @@
 # Chattico
 Official Chattico Organisation.
 
-Our Webpage: *Soon*
-\n
-Our Bot-API: *Soon*
+- Our Webpage: *Soon*
+- Our Bot-API: *Soon*
 
  # Developers
  [tayron1](https://github.com/tayron1)
