@@ -2,6 +2,7 @@
 Official Chattico Organisation.
 
 Our Webpage: *Soon*
+\n
 Our Bot-API: *Soon*
 
  # Developers
